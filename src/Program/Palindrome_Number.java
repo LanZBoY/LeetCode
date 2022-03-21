@@ -1,3 +1,5 @@
+package Program;
+
 import java.util.Scanner;
 
 public class Palindrome_Number {
